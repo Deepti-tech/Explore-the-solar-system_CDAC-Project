@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+}
+
+.absolute{
+    position: absolute;
+    color: white;
+}
